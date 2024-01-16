@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\React-net-curd.props" />
+</Project>
